@@ -46,3 +46,7 @@ my_config_catalog.yaml
 
 # REST generated models
 spec/generated
+
+# Claude Code personal settings (team settings in settings.json are committed)
+.claude/settings.local.json
+.claude/skills/xtable-converter/scripts/__pycache__/
